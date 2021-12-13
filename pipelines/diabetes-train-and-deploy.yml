@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: '790907ce-38df-431c-9fce-11b9ec68781d' # Workspace Service Connection name
+  ml-ws-connection: 'azmldemows' # Workspace Service Connection name
   ml-ws: 'basic-ws-2' # AML Workspace name
   ml-rg: 'test' # AML resource Group name
   ml-ct: 'myct4t345634' # AML Compute cluster name
